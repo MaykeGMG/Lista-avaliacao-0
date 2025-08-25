@@ -31,5 +31,8 @@ int main()
     if (eh_primo == 1){
         printf("é primo");
     }
+    else if(eh_primo == 0){
+        printf("não é primo");
+    }
     return 0;
 }
